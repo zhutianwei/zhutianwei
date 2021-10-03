@@ -4,9 +4,9 @@
 
 ```javascript
 const zhutianwei = {
-  Alma Mater: University of Washington
-  Programming Languages: [Java, Python, Javascript, HTML, CSS],
-  Frameworks and Tools: [Spring, Spring Boot, Spring Cloud, Spring WebFlux, MySQL, Redis, MongoDB, Kafka, Nginx, AWS, Linux, Spark, Hadoop, Git, Jenkins, Docker, NumPy, pandas, Matplotlib, Scikit-Learn, TensofFlow, Keras],
+  alma_mater: University of Washington
+  languages: [Java, Python, Javascript, HTML, CSS],
+  frameworks: [Spring, Spring Boot, Spring Cloud, Spring WebFlux, MySQL, Redis, MongoDB, Kafka, Nginx, AWS, Linux, Spark, Hadoop, Git, Jenkins, Docker, NumPy, pandas, Matplotlib, Scikit-Learn, TensofFlow, Keras],
 }
 ```
 
