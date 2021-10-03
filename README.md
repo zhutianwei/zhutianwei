@@ -1,5 +1,16 @@
 ### Hi there welcome to my space 👋
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```python
+zhutianwei = {
+  Alma Mater: University of Washington
+  Programming Languages: [Java, Python, Javascript, HTML, CSS],
+  Frameworks and Tools: [Spring, Spring Boot, Spring Cloud, Spring WebFlux, MySQL, Redis, MongoDB, Kafka, Nginx, AWS, Linux, Spark, Hadoop, Git, Jenkins, Docker, NumPy, pandas, Matplotlib, Scikit-Learn, TensofFlow, Keras],
+}
+```
+
+
 本站主要包括三个部分：技术笔记，实战项目和读书笔记。计划用业余时间来探索以下类别 
 
 编程语言 算法面试 互联网软件 语言框架 中间件 前端 DevOps 大数据 AI   
