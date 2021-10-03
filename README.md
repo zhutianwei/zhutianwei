@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there welcome to my space 👋
 
 本站主要包括三个部分：技术笔记，实战项目和读书笔记。计划用业余时间来探索以下类别 
 
@@ -8,14 +8,18 @@
 历史人物 格局 科技 商业世界   
 逻辑 人文 经济 社科 科学 文学 艺术  
 
+[![Twitter: zhutianwei](https://img.shields.io/twitter/follow/zhutianwei?style=social)](https://twitter.com/zhutianwei)
+[![Linkedin: zhutianwei](https://img.shields.io/badge/-zhutianwei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhutianwei/)](https://www.linkedin.com/in/zhutianwei/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/zhutianwei?label=follow&style=social)](https://github.com/zhutianwei)
+
 ![zhutianwei github stats](https://github-readme-stats.vercel.app/api?username=zhutianwei)
 
 
-### You can find in me in the web 🌍
+<!-- ### You can find in me in the web 🌍
 [<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br/>
+<br/> -->
 
 [twitter]: https://twitter.com/zhutianwei
 [youtube]: https://youtube.com/
