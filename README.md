@@ -2,8 +2,8 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```python
-zhutianwei = {
+```javascript
+const zhutianwei = {
   Alma Mater: University of Washington
   Programming Languages: [Java, Python, Javascript, HTML, CSS],
   Frameworks and Tools: [Spring, Spring Boot, Spring Cloud, Spring WebFlux, MySQL, Redis, MongoDB, Kafka, Nginx, AWS, Linux, Spark, Hadoop, Git, Jenkins, Docker, NumPy, pandas, Matplotlib, Scikit-Learn, TensofFlow, Keras],
