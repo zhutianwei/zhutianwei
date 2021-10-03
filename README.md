@@ -8,8 +8,8 @@
 历史人物 格局 科技 商业世界   
 逻辑 人文 经济 社科 科学 文学 艺术  
 
-[![Twitter: zhutianwei](https://img.shields.io/twitter/follow/zhutianwei?style=social)](https://twitter.com/zhutianwei)
 [![Linkedin: zhutianwei](https://img.shields.io/badge/-zhutianwei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhutianwei/)](https://www.linkedin.com/in/zhutianwei/)
+[![Twitter: zhutianwei](https://img.shields.io/twitter/follow/zhutianwei?style=social)](https://twitter.com/zhutianwei)
 [![GitHub Thaiane](https://img.shields.io/github/followers/zhutianwei?label=follow&style=social)](https://github.com/zhutianwei)
 
 ![zhutianwei github stats](https://github-readme-stats.vercel.app/api?username=zhutianwei)
