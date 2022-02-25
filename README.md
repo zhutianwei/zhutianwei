@@ -1,6 +1,5 @@
 ## Hi there, welcome to my space 👋
 [![Linkedin: zhutianwei](https://img.shields.io/badge/-zhutianwei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhutianwei/)](https://www.linkedin.com/in/zhutianwei/)
-[![Twitter: zhutianwei](https://img.shields.io/twitter/follow/zhutianwei?style=social)](https://twitter.com/zhutianwei)
 [![GitHub Thaiane](https://img.shields.io/github/followers/zhutianwei?label=follow&style=social)](https://github.com/zhutianwei)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
