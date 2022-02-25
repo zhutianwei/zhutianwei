@@ -7,14 +7,14 @@
 
 ```javascript
 const zhutianwei = {
+  places_lived: ["China", "Spain", "US"]
   alma_mater: "University of Washington", 
-  languages: [Java, Python, Javascript, HTML, CSS],
-  frameworks: [Spring, Spring Boot, Spring Cloud, Spring WebFlux, MySQL, Redis, MongoDB, Kafka, Nginx, AWS, Linux, Spark, Hadoop, Git, Jenkins, Docker, NumPy, pandas, Matplotlib, Scikit-Learn, TensofFlow, Keras],
+  hobbies: ["Coding", "Thinking", "Reading", "Sporting"]
 }
 ```
 
 
-本站主要包括三个部分：技术笔记，实战项目和读书笔记。计划用业余时间来探索以下类别 
+本站主要包括三个部分：技术笔记，实战项目和读书笔记。计划用业余时间来探索以下类别（本地笔记还没想好如何放到github上展示，打算慢慢更新）
 
 编程语言 算法面试 互联网软件 语言框架 中间件 前端 DevOps 大数据 AI   
 金融 投资 
