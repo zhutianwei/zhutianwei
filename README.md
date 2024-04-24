@@ -6,9 +6,8 @@
 
 ```javascript
 const zhutianwei = {
-  places_lived: ["China", "Spain", "US"]
   alma_mater: "University of Washington", 
-  company: "Robinhood",
+  company: "OKX",
   website: "www.coderintellectual.com",
   hobbies: ["Coding", "Thinking", "Reading", "Sporting"],
 }
